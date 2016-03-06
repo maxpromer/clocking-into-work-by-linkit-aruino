@@ -19,7 +19,7 @@ RFID-RC522 -> Arduino Pro Mini 3.3V
   GND      ->   GND
   VCC      ->   5V (on Linkit Smart 7688)
   SDA      ->   A4
-  SCK      ->   A5
+  SCL      ->   A5
 --------------------------------------
  Linkit    -> Arduino Pro Mini 3.3V
   3.3V     ->   VCC
